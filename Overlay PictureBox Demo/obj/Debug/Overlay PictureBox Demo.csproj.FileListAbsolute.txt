@@ -1,0 +1,9 @@
+C:\Users\aaa\source\repos\Overlay PictureBox Demo\Overlay PictureBox Demo\bin\Debug\Overlay PictureBox Demo.exe
+C:\Users\aaa\source\repos\Overlay PictureBox Demo\Overlay PictureBox Demo\bin\Debug\Overlay PictureBox Demo.pdb
+C:\Users\aaa\source\repos\Overlay PictureBox Demo\Overlay PictureBox Demo\obj\Debug\Overlay PictureBox Demo.csprojAssemblyReference.cache
+C:\Users\aaa\source\repos\Overlay PictureBox Demo\Overlay PictureBox Demo\obj\Debug\Overlay_PictureBox_Demo.Form1.resources
+C:\Users\aaa\source\repos\Overlay PictureBox Demo\Overlay PictureBox Demo\obj\Debug\Overlay_PictureBox_Demo.Properties.Resources.resources
+C:\Users\aaa\source\repos\Overlay PictureBox Demo\Overlay PictureBox Demo\obj\Debug\Overlay PictureBox Demo.csproj.GenerateResource.cache
+C:\Users\aaa\source\repos\Overlay PictureBox Demo\Overlay PictureBox Demo\obj\Debug\Overlay PictureBox Demo.csproj.CoreCompileInputs.cache
+C:\Users\aaa\source\repos\Overlay PictureBox Demo\Overlay PictureBox Demo\obj\Debug\Overlay PictureBox Demo.exe
+C:\Users\aaa\source\repos\Overlay PictureBox Demo\Overlay PictureBox Demo\obj\Debug\Overlay PictureBox Demo.pdb
